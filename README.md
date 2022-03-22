@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=tevem1207%20&fontSize=50&fontColor=fdfcfd&fontAlign=80)
-
 <h1 align="center">Hi, I'm TaeHee:hatching_chick:</h1>
 
 <h3 align="center">Learning:pencil2:</h3>
@@ -28,5 +26,3 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tevem1207)](https://solved.ac/tevem1207)
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)
