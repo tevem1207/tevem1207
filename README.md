@@ -18,7 +18,7 @@
 
 <br />
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrookim&theme=buefy&hide_title=true&show_icons=true)](https://github.com/hrookim/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevem1207&theme=buefy&hide_title=true&show_icons=true)](https://github.com/tevem1207/github-readme-stats)
 </div>
 
 <div align="center">
