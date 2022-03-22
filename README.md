@@ -16,10 +16,3 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevem1207&show_icons=true)](https://github.com/tevem1207/github-readme-stats)
 </div>
-
-<div align="center">
-
-<br />
-
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tevem1207)](https://solved.ac/tevem1207)
-</div>
