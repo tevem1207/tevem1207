@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=hrookim%20&fontSize=50&fontColor=fdfcfd&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=250&section=header&text=tevem1207%20&fontSize=50&fontColor=fdfcfd&fontAlign=80)
 
 <h1 align="center">Hi, I'm TaeHee:hatching_chick:</h1>
 
