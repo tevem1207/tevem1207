@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm TaeHee:hatching_chick:</h1>
-
 <h3 align="center">Learning:pencil2:</h3>
 
 <p align="center">
