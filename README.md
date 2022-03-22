@@ -10,17 +10,16 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-C3FC23?style=flat-square&logo=PyCharm&logoColor=black"/>  </p>
 
 
-<div align="center" style="float:left;">
+<div align="center">
 
 <br />
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevem1207&show_icons=true)](https://github.com/tevem1207/github-readme-stats)
 </div>
 
-<div align="center" style="float:left;">
+<div align="center">
 
 <br />
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tevem1207)](https://solved.ac/tevem1207)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tevem1207)](https://solved.ac/tevem1207)
 </div>
