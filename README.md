@@ -31,7 +31,8 @@
     </td>
   </tr>
 </table>
-<div align="center">
+
+<div align="left">
   <br />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevem1207&show_icons=true)](https://github.com/tevem1207/github-readme-stats)
